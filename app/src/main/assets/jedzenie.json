@@ -1,0 +1,32 @@
+[
+  {
+    "category": "Jedzenie",
+    "english": "Apple",
+    "polish": "Jabłko",
+    "example": "An apple a day keeps the doctor away."
+  },
+  {
+    "category": "Jedzenie",
+    "english": "Bread",
+    "polish": "Chleb",
+    "example": "I buy fresh bread every morning."
+  },
+  {
+    "category": "Jedzenie",
+    "english": "Milk",
+    "polish": "Mleko",
+    "example": "Do you want some milk?"
+  },
+  {
+    "category": "Jedzenie",
+    "english": "Dinner",
+    "polish": "Obiad/Kolacja",
+    "example": "What's for dinner?"
+  },
+  {
+    "category": "Jedzenie",
+    "english": "Water",
+    "polish": "Woda",
+    "example": "Drink plenty of water."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "category": "Człowiek",
+    "english": "Head",
+    "polish": "Głowa",
+    "example": "My head hurts."
+  },
+  {
+    "category": "Człowiek",
+    "english": "Hand",
+    "polish": "Ręka/Dłoń",
+    "example": "Shake hands with him."
+  },
+  {
+    "category": "Człowiek",
+    "english": "Friend",
+    "polish": "Przyjaciel",
+    "example": "She is my best friend."
+  },
+  {
+    "category": "Człowiek",
+    "english": "Family",
+    "polish": "Rodzina",
+    "example": "I love my family."
+  },
+  {
+    "category": "Człowiek",
+    "english": "Name",
+    "polish": "Imię",
+    "example": "What is your name?"
+  }
+]

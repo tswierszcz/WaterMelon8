@@ -1,0 +1,32 @@
+[
+  {
+    "category": "Szkoła",
+    "english": "Pen",
+    "polish": "Długopis",
+    "example": "I need a pen to write."
+  },
+  {
+    "category": "Szkoła",
+    "english": "Book",
+    "polish": "Książka",
+    "example": "Read this book for tomorrow."
+  },
+  {
+    "category": "Szkoła",
+    "english": "Teacher",
+    "polish": "Nauczyciel",
+    "example": "The teacher is explaining the lesson."
+  },
+  {
+    "category": "Szkoła",
+    "english": "Homework",
+    "polish": "Zadanie domowe",
+    "example": "Don't forget your homework."
+  },
+  {
+    "category": "Szkoła",
+    "english": "Blackboard",
+    "polish": "Tablica",
+    "example": "Look at the blackboard."
+  }
+]
